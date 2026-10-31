@@ -1,0 +1,116 @@
+{
+ "atlases": [
+  {
+   "key": "kai",
+   "png": "assets/sprites/kai.png",
+   "json": "assets/sprites/kai.json"
+  },
+  {
+   "key": "mira",
+   "png": "assets/sprites/mira.png",
+   "json": "assets/sprites/mira.json"
+  },
+  {
+   "key": "ryu",
+   "png": "assets/sprites/ryu.png",
+   "json": "assets/sprites/ryu.json"
+  },
+  {
+   "key": "elena",
+   "png": "assets/sprites/elena.png",
+   "json": "assets/sprites/elena.json"
+  },
+  {
+   "key": "student",
+   "png": "assets/sprites/student.png",
+   "json": "assets/sprites/student.json"
+  },
+  {
+   "key": "wolf",
+   "png": "assets/sprites/wolf.png",
+   "json": "assets/sprites/wolf.json"
+  },
+  {
+   "key": "spirit",
+   "png": "assets/sprites/spirit.png",
+   "json": "assets/sprites/spirit.json"
+  },
+  {
+   "key": "soldier",
+   "png": "assets/sprites/soldier.png",
+   "json": "assets/sprites/soldier.json"
+  }
+ ],
+ "images": {
+  "drone": "assets/sprites/drone.png",
+  "experiment": "assets/sprites/experiment.png",
+  "guardian": "assets/sprites/guardian.png",
+  "crimson": "assets/sprites/crimson.png",
+  "proto": "assets/sprites/proto.png",
+  "director": "assets/sprites/director.png",
+  "fx_arc": "assets/fx/arc.png",
+  "fx_claw": "assets/fx/claw.png",
+  "fx_eruption": "assets/fx/eruption.png",
+  "fx_leaf": "assets/fx/leaf.png",
+  "fx_orb_green": "assets/fx/orb_green.png",
+  "fx_swirl": "assets/fx/swirl.png",
+  "fx_tornado": "assets/fx/tornado.png",
+  "fx_vines": "assets/fx/vines.png",
+  "fx_voidflame": "assets/fx/voidflame.png",
+  "fx_voidspike": "assets/fx/voidspike.png",
+  "bg_academy_far": "assets/bg/academy_far.png",
+  "bg_academy_mid": "assets/bg/academy_mid.png",
+  "bg_city_far": "assets/bg/city_far.png",
+  "bg_city_mid": "assets/bg/city_mid.png",
+  "bg_forest_far": "assets/bg/forest_far.png",
+  "bg_forest_mid": "assets/bg/forest_mid.png",
+  "bg_lab_far": "assets/bg/lab_far.png",
+  "bg_lab_mid": "assets/bg/lab_mid.png",
+  "bg_void_far": "assets/bg/void_far.png",
+  "bg_void_mid": "assets/bg/void_mid.png",
+  "bg_void_vortex": "assets/bg/void_vortex.png",
+  "tiles_academy": "assets/tiles/academy.png",
+  "tiles_city": "assets/tiles/city.png",
+  "tiles_forest": "assets/tiles/forest.png",
+  "tiles_lab": "assets/tiles/lab.png",
+  "prop_banner": "assets/tiles/prop_banner.png",
+  "prop_bookshelf": "assets/tiles/prop_bookshelf.png",
+  "prop_bush": "assets/tiles/prop_bush.png",
+  "prop_carwreck": "assets/tiles/prop_carwreck.png",
+  "prop_checkpoint": "assets/tiles/prop_checkpoint.png",
+  "prop_checkpoint_off": "assets/tiles/prop_checkpoint_off.png",
+  "prop_chest": "assets/tiles/prop_chest.png",
+  "prop_coin": "assets/tiles/prop_coin.png",
+  "prop_console": "assets/tiles/prop_console.png",
+  "prop_crate": "assets/tiles/prop_crate.png",
+  "prop_crystal": "assets/tiles/prop_crystal.png",
+  "prop_fire": "assets/tiles/prop_fire.png",
+  "prop_lamp": "assets/tiles/prop_lamp.png",
+  "prop_mushroom": "assets/tiles/prop_mushroom.png",
+  "prop_orb_hp": "assets/tiles/prop_orb_hp.png",
+  "prop_orb_mp": "assets/tiles/prop_orb_mp.png",
+  "prop_portal": "assets/tiles/prop_portal.png",
+  "prop_tank": "assets/tiles/prop_tank.png",
+  "tiles_void": "assets/tiles/void.png",
+  "portrait_director": "assets/portraits/director.png",
+  "portrait_elena": "assets/portraits/elena.png",
+  "portrait_kai": "assets/portraits/kai.png",
+  "portrait_mira": "assets/portraits/mira.png",
+  "portrait_ryu": "assets/portraits/ryu.png",
+  "ui_area_academy": "assets/ui/area_academy.png",
+  "ui_area_city": "assets/ui/area_city.png",
+  "ui_area_forest": "assets/ui/area_forest.png",
+  "ui_area_lab": "assets/ui/area_lab.png",
+  "ui_area_void": "assets/ui/area_void.png",
+  "ui_banner": "assets/ui/banner.png",
+  "ui_logo_panel": "assets/ui/logo_panel.png",
+  "face_kai": "assets/portraits/face_kai.png",
+  "face_mira": "assets/portraits/face_mira.png",
+  "face_ryu": "assets/portraits/face_ryu.png",
+  "face_elena": "assets/portraits/face_elena.png"
+ },
+ "audio": {
+  "_comment": "Optional real audio files. Keys sfx_<name> / music_<track>. Missing entries fall back to synthesized placeholders.",
+  "files": []
+ }
+}

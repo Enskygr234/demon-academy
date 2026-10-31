@@ -1,0 +1,72 @@
+{
+ "defaults": {
+  "idle": {
+   "fps": 7,
+   "repeat": -1
+  },
+  "run": {
+   "fps": 12,
+   "repeat": -1
+  },
+  "walk": {
+   "fps": 9,
+   "repeat": -1
+  },
+  "jump": {
+   "fps": 10,
+   "repeat": 0
+  },
+  "fall": {
+   "fps": 6,
+   "repeat": -1
+  },
+  "attack": {
+   "fps": 18,
+   "repeat": 0
+  },
+  "heavy": {
+   "fps": 14,
+   "repeat": 0
+  },
+  "dash": {
+   "fps": 16,
+   "repeat": 0
+  },
+  "hurt": {
+   "fps": 10,
+   "repeat": 0
+  },
+  "death": {
+   "fps": 8,
+   "repeat": 0
+  },
+  "skill": {
+   "fps": 12,
+   "repeat": 0
+  },
+  "blast": {
+   "fps": 12,
+   "repeat": 0
+  }
+ },
+ "overrides": {
+  "soldier": {
+   "death": {
+    "fps": 10
+   },
+   "attack": {
+    "fps": 14
+   }
+  },
+  "wolf": {
+   "run": {
+    "fps": 14
+   }
+  },
+  "spirit": {
+   "run": {
+    "fps": 10
+   }
+  }
+ }
+}

@@ -1,0 +1,141 @@
+{
+ "kai": {
+  "frameW": 122,
+  "frameH": 87,
+  "anchorX": 61,
+  "anchorY": 85,
+  "anims": {
+   "idle": 5,
+   "run": 6,
+   "jump": 3,
+   "fall": 2,
+   "attack": 5,
+   "heavy": 5,
+   "dash": 3,
+   "hurt": 2,
+   "death": 4,
+   "skill": 6
+  }
+ },
+ "mira": {
+  "frameW": 154,
+  "frameH": 95,
+  "anchorX": 77,
+  "anchorY": 92,
+  "anims": {
+   "idle": 4,
+   "run": 6,
+   "jump": 3,
+   "fall": 2,
+   "attack": 5,
+   "heavy": 5,
+   "dash": 3,
+   "hurt": 2,
+   "death": 4,
+   "skill": 6
+  }
+ },
+ "ryu": {
+  "frameW": 160,
+  "frameH": 93,
+  "anchorX": 80,
+  "anchorY": 91,
+  "anims": {
+   "idle": 5,
+   "run": 6,
+   "jump": 3,
+   "fall": 2,
+   "attack": 5,
+   "heavy": 5,
+   "dash": 3,
+   "hurt": 2,
+   "death": 4,
+   "skill": 6
+  }
+ },
+ "elena": {
+  "frameW": 172,
+  "frameH": 96,
+  "anchorX": 86,
+  "anchorY": 93,
+  "anims": {
+   "idle": 5,
+   "run": 6,
+   "jump": 3,
+   "fall": 2,
+   "attack": 5,
+   "heavy": 5,
+   "dash": 3,
+   "hurt": 2,
+   "death": 4,
+   "skill": 6
+  }
+ },
+ "student": {
+  "frameW": 144,
+  "frameH": 81,
+  "anchorX": 72,
+  "anchorY": 79,
+  "anims": {
+   "idle": 4,
+   "run": 6,
+   "jump": 3,
+   "fall": 2,
+   "attack": 5,
+   "heavy": 5,
+   "dash": 3,
+   "hurt": 2,
+   "death": 7
+  }
+ },
+ "wolf": {
+  "frameW": 194,
+  "frameH": 91,
+  "anchorX": 97,
+  "anchorY": 89,
+  "anims": {
+   "idle": 4,
+   "run": 6,
+   "jump": 3,
+   "fall": 2,
+   "attack": 5,
+   "heavy": 5,
+   "dash": 3,
+   "hurt": 2,
+   "death": 7
+  }
+ },
+ "spirit": {
+  "frameW": 170,
+  "frameH": 139,
+  "anchorX": 85,
+  "anchorY": 113,
+  "anims": {
+   "idle": 4,
+   "run": 6,
+   "jump": 3,
+   "fall": 2,
+   "attack": 6,
+   "heavy": 6,
+   "dash": 3,
+   "hurt": 2,
+   "death": 7
+  }
+ },
+ "soldier": {
+  "frameW": 194,
+  "frameH": 125,
+  "anchorX": 97,
+  "anchorY": 106,
+  "anims": {
+   "idle": 4,
+   "walk": 6,
+   "run": 6,
+   "attack": 6,
+   "hurt": 2,
+   "death": 8,
+   "blast": 5,
+   "dash": 3
+  }
+ }
+}
