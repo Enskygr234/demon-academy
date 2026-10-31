@@ -37,6 +37,7 @@ jobs:
       - name: Create Android project (Capacitor)
         run: |
           npx cap add android
+          npx @capacitor/assets generate --android
           node android-config/apply-android-config.js
           npx cap sync android
 

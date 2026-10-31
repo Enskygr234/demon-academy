@@ -39,6 +39,10 @@ python3 -m http.server 8080        # or: npx http-server -c-1
 
 ## Android APK (Capacitor)
 
+Every push to `main` builds a debug APK with GitHub Actions and publishes it under **Releases**.
+The app icon (adaptive + legacy) and splash screen are generated from `assets/` by `@capacitor/assets`; rebuild them with `python3 tools/make_icon.py <art-folder>/ assets/`.
+
+
 Requirements: Node 18+, JDK 17, Android Studio (SDK 34) with `ANDROID_HOME` set.
 
 ```bash

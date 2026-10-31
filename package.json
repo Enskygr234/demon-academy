@@ -8,9 +8,10 @@
     "copy:phaser": "node -e \"require('fs').copyFileSync('node_modules/phaser/dist/phaser-arcade-physics.min.js','www/lib/phaser.min.js')\"",
     "cap:sync": "npx cap sync android",
     "cap:open": "npx cap open android",
-    "android:setup": "npx cap add android && node android-config/apply-android-config.js",
+    "android:setup": "npx cap add android && npx @capacitor/assets generate --android && node android-config/apply-android-config.js",
     "android:debug": "npx cap sync android && node android-config/apply-android-config.js && cd android && ./gradlew assembleDebug",
-    "android:release": "npx cap sync android && cd android && ./gradlew assembleRelease"
+    "android:release": "npx cap sync android && cd android && ./gradlew assembleRelease",
+    "android:icons": "npx @capacitor/assets generate --android"
   },
   "dependencies": {
     "@capacitor/android": "^6.1.2",
@@ -20,6 +21,7 @@
   },
   "devDependencies": {
     "@capacitor/cli": "^6.1.2",
-    "http-server": "^14.1.1"
+    "http-server": "^14.1.1",
+    "@capacitor/assets": "^3.0.5"
   }
 }
